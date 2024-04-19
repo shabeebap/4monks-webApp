@@ -93,3 +93,11 @@ export const colors = [
     color: "#F5D266",
   },
 ];
+
+export const cities = [
+  "Mumbai",
+  "New Delhi",
+  "Bangalore",
+  "Kolkata",
+  "Chennai",
+];

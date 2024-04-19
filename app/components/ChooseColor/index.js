@@ -20,7 +20,7 @@ const ChooseColor = () => {
       <div>
         <ColorPicker />
       </div>
-      <div className="w-[100%] bg-black p-6 flex justify-between items-center mb-16">
+      <div className="w-[100%] bg-black p-6 flex justify-between items-center mb-1">
         <p className="text-[12px] font-semibold text-white uppercase">
           Confirm
         </p>
