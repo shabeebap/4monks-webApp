@@ -10,7 +10,7 @@ import { socialIcons } from "../constants";
 const CopyRight = () => {
   return (
     <div className="bg-black border-t-[1px] border-[#434343]">
-      <div className=" lg:flex flex-wrap items-center justify-between pt-[30px]">
+      <div className=" lg:flex flex-wrap items-center justify-between py-[30px]">
         <div className="text-center lg:text-left mb-4 lg:mb-0">
           <p className="text-sm text-gray-300 opacity-50">
             &copy; 2023 Batt:RE. All rights reserved.

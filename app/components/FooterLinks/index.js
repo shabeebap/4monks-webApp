@@ -2,7 +2,7 @@ import React from "react";
 import { footerLinks } from "../constants";
 const FooterLinks = () => {
   return (
-    <div className="lg:flex justify-between">
+    <div className="lg:flex justify-between bg-black p-[40px]">
       <div className="lg:w-[30%] w-[100%] pb-10 lg:pb-0">
         <p className="text-white leading-6">
           Kasra No 351, 80 Feet Road
