@@ -1,0 +1,29 @@
+
+.newsletter {
+width: 100%;
+background: #000;
+    .input {
+      width: 100%;
+      max-width: 424px;
+      padding: 14px;
+      border: none;
+      background-color: #FFFFFF33;
+      font-size: 14px;
+    }
+  
+    .button {
+      max-width: 176px;
+      width: 100%;
+      padding: 10px;
+      border: none;
+      background-color: #E4E4E4;
+      color: #333;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      font-size: 12px;
+      &:hover {
+        background-color: #ccc;
+      }
+    }
+  }
+  
