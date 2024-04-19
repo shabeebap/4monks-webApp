@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Footer.module.scss";
+import styles from "./Footer.Module.scss";
 import Informed from "../Informed";
 import CopyRight from "../Copyright";
 import FooterLinks from "../FooterLinks";
